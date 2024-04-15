@@ -1,0 +1,15 @@
+FORNECIMENTO
+
+Tela para inclusão de fornecedores***
+
+Opções:
+
+-Incluir fornecedores; >>>Composto (nome, CNPJ, Contato {Telefone, e-mail}, Local)
+-Excluir fornecedor
+
+Sistema de pedido:
+{
+-pedir material; >>> composto (nome, quantidade, estimativa de entrega, preço)
+
+-Histórico de pedidos; >>> (Estimativa de entrega e acesso ás informações do pedido)
+}

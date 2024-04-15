@@ -1,0 +1,8 @@
+VENDA
+
+Tela para visualização de clientes**
+
+-Adicionar cliente >>> (info pessoal)
+-Estoque disponível >>> (produto, qntd, preço)
+-Pedidos >>> (aceitar pedido {colocar estimativa de entrega}, recusar pedido{colocar motivo})
+-Histórico de venda >>> (info cliente, info produto)
