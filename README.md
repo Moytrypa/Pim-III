@@ -16,5 +16,57 @@
 - Matheus Alves Pimenta /          Scrum Team
 
 ---
+## Backlogs
+
+- Documentação do sistema
+- Controle de fornecedores/produção
+- Bancos de dados
+- Protótipo do site (Figma)
+- Regras de Negócios
+- Caso de Uso [Caso de uso] 
+- Glossário do sistema
+
+---
+## Sprint 01 (Documentação do sistema)
+
+### Tarefas :
+- Objetivos da COP30 / Bruno Felipe
+- ESG e Seu relacionamento / Alexandre Santos
+- Princípios das ODS / Gustavo Henrique
+- Segurança Alimentar/Banco de Alimentos / Matheus Pimenta
+- Histórico Fazenda Urbana / Vinícius Gabriel
+
+
+<div align="center">
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/9f592b1f-4261-4526-aece-866092dcaa64" width="400px" />
+</div>
+
+---
+## Sprint 02 (Controle de fornecedores/produção)
+
+### Tarefas :
+- Processo de produção e Fornecimento / Alexandre&Sayumi
+- Principais Finalidades do Sistema / Alexandre&Sayumi
+
+<div align="center">
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/4655ce3d-0534-42b5-8ce7-080054e3bbc6" width="400px" />
+</div>
+
+---
+## Sprint 03 (Bancos de dados/Protótipo do site (Figma/ Caso de Uso)
+
+### Tarefas :
+- Casos de Usos / Alexandre&Sayumi
+- Figma / Bruno&Gustavo&Vinicius (Não Finalizado)
+- Banco de dados / Mateus&Sayumi (Não Finalizado)
+
+---
+- ## Sprint 04 ()
+
+### Tarefas :
+- 
+- 
+- 
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
