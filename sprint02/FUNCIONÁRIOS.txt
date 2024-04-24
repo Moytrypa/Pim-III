@@ -1,7 +1,0 @@
-FUNCIONÁRIOS
-
-Tela para visualização dos funcionários cadastrados**
-
--Adicionar funcionário >>> (info pessoal, função, dia de admissão, permissões)
--Excluir funcionário >>> (necessita de permissão master para realizar, colocar motivo de exclusão)
--Histórico de funcionário >>> (visualizar os funcionários já excluidos para caso necessite de informações importantes ou para reativar o funcionário na empresa)

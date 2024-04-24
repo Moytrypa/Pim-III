@@ -1,4 +1,0 @@
-FINANCEIRO
-
--Visualizar qntd de vendas >>> (produto, preço)
--Visualizar qntd de compras >>> (produto. preço)
