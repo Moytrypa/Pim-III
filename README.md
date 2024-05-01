@@ -42,7 +42,7 @@
 </div>
 
 ---
-## Sprint 02 (Controle de fornecedores/produção)
+## Sprint 02 (Controle de fornecedores/produção/Regras de negocio)
 
 ### Tarefas :
 - Processo de produção e Fornecimento / Alexandre&Sayumi
@@ -53,20 +53,33 @@
 </div>
 
 ---
-## Sprint 03 (Bancos de dados/Protótipo do site (Figma/ Caso de Uso)
+## Sprint 03 (Protótipo do site (Figma/ Caso de Uso)
 
 ### Tarefas :
-- Casos de Usos / Alexandre&Sayumi
+- Casos de Usos / Bruno&Gustavo&Viniciu
 - Figma / Bruno&Gustavo&Vinicius (Não Finalizado)
-- Banco de dados / Mateus&Sayumi (Não Finalizado)
+  
 
 ---
-- ## Sprint 04 ()
+## Sprint 04 (banco de Dados Pt 01)
 
 ### Tarefas :
-- 
-- 
-- 
+- Levantar entidades, atributos e relacionamentos / Sayumi
+- Normalização até a 3Fn / Alexandre&Sayumi
+- Inicio do MER / Alexandre&Sayumi
+
+
+  ---
+
+  ## Sprint 05 (Diagrama de classe)
+
+### Tarefas :
+- Levantar entidades, atributos e relacionamentos
+- Normalização até a 3Fn
+- Inicio do MER
+
+
+  ---
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
