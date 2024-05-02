@@ -23,8 +23,9 @@
 - Bancos de dados
 - Protótipo do site (Figma)
 - Regras de Negócios
-- Caso de Uso [Caso de uso] 
+- Caso de Uso 
 - Glossário do sistema
+- Diagrama de classe
 
 ---
 ## Sprint 01 (Documentação do sistema)
@@ -47,6 +48,7 @@
 ### Tarefas :
 - Processo de produção e Fornecimento / Alexandre&Sayumi
 - Principais Finalidades do Sistema / Alexandre&Sayumi
+- Regras de negocios / Alexandre
 
 <div align="center">
 <img src="https://github.com/Moytrypa/Pim-III/assets/162316579/4655ce3d-0534-42b5-8ce7-080054e3bbc6" width="400px" />
@@ -65,18 +67,27 @@
 
 ### Tarefas :
 - Levantar entidades, atributos e relacionamentos / Sayumi
-- Normalização até a 3Fn / Alexandre&Sayumi
+- Normalização até a 3Fn / Sayumi
 - Inicio do MER / Alexandre&Sayumi
 
 
   ---
 
-  ## Sprint 05 (Diagrama de classe)
+  ## Sprint 05 (Diagrama de classe/Banco de dados Pt 02)
 
 ### Tarefas :
-- Levantar entidades, atributos e relacionamentos
-- Normalização até a 3Fn
-- Inicio do MER
+- Diagrama de classe / Alexandre
+- Inicio do DER / Matheus
+
+
+  ---
+
+    ## Sprint 06 (Diagrama de classe (codigo)/Banco de dados Pt 02)
+
+### Tarefas :
+- Dicionário de dados (Metadados) / 
+- Script de geração do BD /
+-  Query do Banco de dados
 
 
   ---
