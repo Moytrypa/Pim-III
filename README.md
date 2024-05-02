@@ -22,7 +22,7 @@
 - Controle de fornecedores/produção
 - Bancos de dados
 - Protótipo do site (Figma)
-- Regras de Negócios
+- Regras de Negócio
 - Caso de Uso 
 - Glossário do sistema
 - Diagrama de classe
@@ -48,7 +48,7 @@
 ### Tarefas :
 - Processo de produção e Fornecimento / Alexandre&Sayumi
 - Principais Finalidades do Sistema / Alexandre&Sayumi
-- Regras de negocios / Alexandre
+- Regras de negocio / Alexandre
 
 <div align="center">
 <img src="https://github.com/Moytrypa/Pim-III/assets/162316579/4655ce3d-0534-42b5-8ce7-080054e3bbc6" width="400px" />
