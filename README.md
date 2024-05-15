@@ -97,9 +97,9 @@
   ## Sprint 06 (Diagrama de classe (codigo)/Banco de dados Pt 02)
 
 ### Tarefas :
-- Dicionário de dados (Metadados) / 
-- Script de geração do BD /
--  Query do Banco de dados
+- Dicionário de dados (Metadados) /  Sayumi&Matheus&Alexandre
+- Script de geração do BD / Sayumi&Matheus
+-  Query do Banco de dados / Sayumi&Matheus
 
 <div align="center">
 <img src="https://github.com/Moytrypa/Pim-III/assets/162316579/6737b5b2-93e3-4331-8d51-7cbaf877e7b4" width="400px" />
@@ -111,9 +111,7 @@
   ## Sprint 07 (Documentação / Banco de dados)
 
 ### Tarefas :
-- Dicionário de dados (Metadados) / 
-- Script de geração do BD /
--  Query do Banco de dados
+- Documentação Pt 02 / Sayumi
 
 <div align="center">
 <img src="https://github.com/Moytrypa/Pim-III/assets/162316579/89dc8e46-f188-4e4b-870d-f00a047d8ef7" width="400px" />
