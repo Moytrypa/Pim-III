@@ -59,7 +59,7 @@
 ## Sprint 03 (Protótipo do site (Figma/ Caso de Uso)
 
 ### Tarefas :
-- Casos de Usos / Bruno&Gustavo&Viniciu
+- Casos de Usos / Bruno&Gustavo&Vinicius
 - Figma / Bruno&Gustavo&Vinicius (Não Finalizado)
 
 <div align="center">
@@ -72,7 +72,7 @@
 
 ### Tarefas :
 - Levantar entidades, atributos e relacionamentos / Sayumi
-- Normalização até a 3Fn / Sayumi
+- Normalização até a 3Fn / Alexandre
 - Inicio do MER / Alexandre&Sayumi
 
 <div align="center">
@@ -86,7 +86,7 @@
 
 ### Tarefas :
 - Diagrama de classe / Alexandre
-- Inicio do DER / Matheus
+- Inicio do DER / Matheus&Sayumi
 
 <div align="center">
 <img src="https://github.com/Moytrypa/Pim-III/assets/162316579/5116b398-5459-49a0-8acd-717231e80aa4" width="400px" />
