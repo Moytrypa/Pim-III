@@ -39,7 +39,7 @@
 
 
 <div align="center">
-<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/9f592b1f-4261-4526-aece-866092dcaa64" width="400px" />
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/6835a54e-a056-40ee-b56e-72c25334a013" width="400px" />
 </div>
 
 ---
@@ -49,17 +49,22 @@
 - Processo de produção e Fornecimento / Alexandre&Sayumi
 - Principais Finalidades do Sistema / Alexandre&Sayumi
 - Regras de negocio / Alexandre
+- Requisitos funcionais e não funcionais / Alexandre
 
 <div align="center">
-<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/4655ce3d-0534-42b5-8ce7-080054e3bbc6" width="400px" />
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/0f040aa1-17d5-43d3-88a2-43b177bf126e" width="400px" />
 </div>
 
 ---
 ## Sprint 03 (Protótipo do site (Figma/ Caso de Uso)
 
 ### Tarefas :
-- Casos de Usos / Bruno&Gustavo&Viniciu
+- Casos de Usos / Bruno&Gustavo&Vinicius
 - Figma / Bruno&Gustavo&Vinicius (Não Finalizado)
+
+<div align="center">
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/121da231-7e29-4389-9459-2f43126d0c9d" width="400px" />
+</div>
   
 
 ---
@@ -67,8 +72,12 @@
 
 ### Tarefas :
 - Levantar entidades, atributos e relacionamentos / Sayumi
-- Normalização até a 3Fn / Sayumi
+- Normalização até a 3Fn / Alexandre
 - Inicio do MER / Alexandre&Sayumi
+
+<div align="center">
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/5e30c456-6b91-4e00-96c8-32f1ecd6a272" width="400px" />
+</div>
 
 
   ---
@@ -77,17 +86,36 @@
 
 ### Tarefas :
 - Diagrama de classe / Alexandre
-- Inicio do DER / Matheus
+- Inicio do DER / Matheus&Sayumi
+
+<div align="center">
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/5116b398-5459-49a0-8acd-717231e80aa4" width="400px" />
+</div>
+
+  ---
+
+  ## Sprint 06 (Diagrama de classe (codigo)/Banco de dados Pt 02)
+
+### Tarefas :
+- Dicionário de dados (Metadados) /  Sayumi&Matheus&Alexandre
+- Script de geração do BD / Sayumi&Matheus
+-  Query do Banco de dados / Sayumi&Matheus
+
+<div align="center">
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/6737b5b2-93e3-4331-8d51-7cbaf877e7b4" width="400px" />
+</div>
 
 
   ---
 
-    ## Sprint 06 (Diagrama de classe (codigo)/Banco de dados Pt 02)
+  ## Sprint 07 (Documentação / Banco de dados)
 
 ### Tarefas :
-- Dicionário de dados (Metadados) / 
-- Script de geração do BD /
--  Query do Banco de dados
+- Documentação Pt 02 / Sayumi
+
+<div align="center">
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/89dc8e46-f188-4e4b-870d-f00a047d8ef7" width="400px" />
+</div>
 
 
   ---
