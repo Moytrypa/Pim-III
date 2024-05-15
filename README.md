@@ -39,7 +39,7 @@
 
 
 <div align="center">
-<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/9f592b1f-4261-4526-aece-866092dcaa64" width="400px" />
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/6835a54e-a056-40ee-b56e-72c25334a013" width="400px" />
 </div>
 
 ---
@@ -51,7 +51,7 @@
 - Regras de negocio / Alexandre
 
 <div align="center">
-<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/4655ce3d-0534-42b5-8ce7-080054e3bbc6" width="400px" />
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/0f040aa1-17d5-43d3-88a2-43b177bf126e" width="400px" />
 </div>
 
 ---
@@ -60,6 +60,10 @@
 ### Tarefas :
 - Casos de Usos / Bruno&Gustavo&Viniciu
 - Figma / Bruno&Gustavo&Vinicius (Não Finalizado)
+
+<div align="center">
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/121da231-7e29-4389-9459-2f43126d0c9d" width="400px" />
+</div>
   
 
 ---
@@ -70,6 +74,10 @@
 - Normalização até a 3Fn / Sayumi
 - Inicio do MER / Alexandre&Sayumi
 
+<div align="center">
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/5e30c456-6b91-4e00-96c8-32f1ecd6a272" width="400px" />
+</div>
+
 
   ---
 
@@ -79,6 +87,9 @@
 - Diagrama de classe / Alexandre
 - Inicio do DER / Matheus
 
+<div align="center">
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/1a355792-b5fb-4280-8916-0896c4a87882" width="400px" />
+</div>
 
   ---
 
@@ -88,6 +99,24 @@
 - Dicionário de dados (Metadados) / 
 - Script de geração do BD /
 -  Query do Banco de dados
+
+<div align="center">
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/6737b5b2-93e3-4331-8d51-7cbaf877e7b4" width="400px" />
+</div>
+
+
+  ---
+
+  ## Sprint 07 (Documentação / Banco de dados)
+
+### Tarefas :
+- Dicionário de dados (Metadados) / 
+- Script de geração do BD /
+-  Query do Banco de dados
+
+<div align="center">
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/89dc8e46-f188-4e4b-870d-f00a047d8ef7" width="400px" />
+</div>
 
 
   ---
