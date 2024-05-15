@@ -89,7 +89,7 @@
 - Inicio do DER / Matheus
 
 <div align="center">
-<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/1a355792-b5fb-4280-8916-0896c4a87882" width="400px" />
+<img src="https://github.com/Moytrypa/Pim-III/assets/162316579/5116b398-5459-49a0-8acd-717231e80aa4" width="400px" />
 </div>
 
   ---
