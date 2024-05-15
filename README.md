@@ -94,7 +94,7 @@
 
   ---
 
-    ## Sprint 06 (Diagrama de classe (codigo)/Banco de dados Pt 02)
+  ## Sprint 06 (Diagrama de classe (codigo)/Banco de dados Pt 02)
 
 ### Tarefas :
 - Dicionário de dados (Metadados) / 
