@@ -49,6 +49,7 @@
 - Processo de produção e Fornecimento / Alexandre&Sayumi
 - Principais Finalidades do Sistema / Alexandre&Sayumi
 - Regras de negocio / Alexandre
+- Requisitos funcionais e não funcionais / Alexandre
 
 <div align="center">
 <img src="https://github.com/Moytrypa/Pim-III/assets/162316579/0f040aa1-17d5-43d3-88a2-43b177bf126e" width="400px" />
